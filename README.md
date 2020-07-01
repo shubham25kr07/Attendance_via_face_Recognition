@@ -16,7 +16,7 @@ To read the documentation of the face detection algorithm you can refer [this](h
 # Requirements
 
 ## Build with
-  * Python 3.6
+  * Python 3
 ## Module Used
   * OpenCV2
   * Numpy
@@ -31,7 +31,7 @@ In Ubuntu
 * Python Installation
 
     ```bash
-   sudo apt-get install python3.6
+   sudo apt-get install python3
   ```
 * Pip, Numpy, Pandas Installation
  
