@@ -10,6 +10,7 @@ So, basically there are three steps in a face recognition system.
   * Face Detection
   * Train the data
   * Recognize the face
+  
 To read the documentation of the face detection algorithm you can refer [this](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection)
 
 # Requirements
